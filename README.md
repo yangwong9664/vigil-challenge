@@ -18,13 +18,14 @@ Input text example:
 
 Example output 40 character:
 
-In 1991, while studying computer science
-at University of Helsinki, Linus
-Torvalds began a project that later
-became the Linux kernel. He wrote the
-program specifically for the hardware he
-was using and independent of an
-operating system because he wanted to
-use the functions of his new PC with an
-80386 processor. Development was done on
-MINIX using the GNU C Compiler.
+In 1991, while studying computer science<br>
+at University of Helsinki, Linus<br>
+Torvalds began a project that later<br>
+became the Linux kernel. He wrote the<br>
+program specifically for the hardware he<br>
+was using and independent of an<br>
+operating system because he wanted to<br>
+use the functions of his new PC with an<br>
+80386 processor. Development was done on<br>
+MINIX using the GNU C Compiler.<br>
+
