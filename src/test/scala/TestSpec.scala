@@ -1470,7 +1470,6 @@ class TestSpec extends AnyWordSpec with Matchers {
       val result = formatter.format(beeMovieScript, charLimit)
 
       forAll(result) { line =>
-        println(line)
         assert(line.length <= charLimit)
       }
 
