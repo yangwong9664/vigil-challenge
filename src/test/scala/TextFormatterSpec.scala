@@ -2,7 +2,7 @@ import org.scalatest.Inspectors.forAll
 import org.scalatest.matchers.should.Matchers
 import org.scalatest.wordspec.AnyWordSpec
 
-class TestSpec extends AnyWordSpec with Matchers {
+class TextFormatterSpec extends AnyWordSpec with Matchers {
 
   "Text Formatter" should {
     val formatter = new TextFormatter
